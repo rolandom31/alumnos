@@ -4,7 +4,7 @@
   "description": "You can use the [editor on GitHub](https://github.com/rolandom31/RolandoMata.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "index.html"
   },
   "repository": {
     "type": "git",
