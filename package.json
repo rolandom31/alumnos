@@ -2,9 +2,9 @@
   "name": "rolandom31.github.io",
   "version": "1.0.0",
   "description": "You can use the [editor on GitHub](https://github.com/rolandom31/RolandoMata.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "start": "index.html"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
